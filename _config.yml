@@ -1,0 +1,6 @@
+title: It Is Done
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude: [README.md]
